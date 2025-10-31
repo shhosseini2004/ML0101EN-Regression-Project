@@ -34,5 +34,7 @@ Ensure Python and Git are installed on your system.
 
 ### 2. Clone Repository
 ```bash
-git clone [housePrice.csv]
+git clone [    git clone https://github.com/shhosseini2004/ML0101EN-Regression-Project.git
+    cd ML0101EN-Regression-Project
+]
 cd ML0101EN-Regression-Project
