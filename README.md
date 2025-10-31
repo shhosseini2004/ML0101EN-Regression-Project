@@ -22,7 +22,7 @@ This project focuses on applying various regression techniques to a specific dat
 The main implementation, including all steps from EDA to model evaluation, is contained in:
 
 *   `ML0101EN-Regression-Project.ipynb`: The primary project notebook.
-*   `[Your_Data_File_Name.csv]`: The specific dataset used for this regression task (Please replace with the actual file name).
+*   `[housePrice.csv]`: The specific dataset used for this regression task (Please replace with the actual file name).
 
 ## ▶️ How to Run Locally
 
